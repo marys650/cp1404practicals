@@ -5,6 +5,7 @@ List comprehensions
 
 names = ["Bob", "Angel", "Jimi", "Alan", "Ada"]
 full_names = ["Bob Martin", "Angel Harlem", "Jimi Hendrix", "Alan Turing", "Ada Lovelace"]
+
 # for loop that creates a new list containing the first letter of each name
 first_initials = []
 for name in names:

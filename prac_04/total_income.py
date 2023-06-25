@@ -18,6 +18,7 @@ def main():
 
 
 def report_display(incomes, number_of_month):
+
     total = 0
     for month in range(1, number_of_month + 1):
         income = incomes[month - 1]

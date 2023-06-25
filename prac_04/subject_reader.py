@@ -29,6 +29,7 @@ def get_data():
     return data
 
 
+
 def subject_details(data):
     for subject_data in data:
         print(f"{subject_data[0]} is taught by {subject_data[1]} and has {subject_data[2]} students ")

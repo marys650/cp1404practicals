@@ -1,6 +1,7 @@
 
 from random import randint
 
+
 MIN = 1
 MAX = 45
 QUICK_PICK = 6
